@@ -51,5 +51,6 @@ Writing well designed, testable, efficient code by using best software developme
               
                   
   
-![ezgif-1-acfdbacd50](https://user-images.githubusercontent.com/56863773/170061974-4e52f7a1-d49a-4f46-ace1-a148679bc801.gif)
+<!-- ![ezgif-1-acfdbacd50](https://user-images.githubusercontent.com/56863773/170061974-4e52f7a1-d49a-4f46-ace1-a148679bc801.gif)
 stats) 
+ -->
